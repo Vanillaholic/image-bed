@@ -3,6 +3,6 @@
 
 网页图片可以用jsDelivr加速，此仓库的域名：
 
-'''html
-https://cdn.jsdelivr.net/gh/vanillaholic/image-bed
-'''
+```html
+https://cdn.jsdelivr.net/gh/vanillaholic/image-bed/img
+```
